@@ -13,7 +13,7 @@ const NavBar = () => {
   }), []);
 
   return (
-    <Navbar bg="light" expand="lg">
+    <Navbar expand="lg"className="navbar-custom">
       <Container>
         <Navbar.Brand as={NavLink} to="/">
           <h2>ALOHA Connects</h2>

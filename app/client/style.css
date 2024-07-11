@@ -26,3 +26,12 @@ body {
   padding-top: 10px;
   padding-bottom: 20px;
 }
+
+/* Define custom navbar style */
+.navbar-custom {
+  background-color: #638950; /* Change navbar color to #36829 */
+}
+
+.footer {
+  background-color: #638950; /* Change navbar color to #36829 */
+}
