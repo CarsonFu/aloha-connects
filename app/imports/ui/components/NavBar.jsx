@@ -14,6 +14,7 @@ const NavBar = () => {
 
   return (
     <Navbar expand="lg"className="navbar-custom">
+    <Navbar className="navbar" expand="lg">
       <Container>
         <Navbar.Brand as={NavLink} to="/">
           <h2>ALOHA Connects</h2>

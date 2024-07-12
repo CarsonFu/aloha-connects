@@ -6,6 +6,8 @@ const Footer = () => (
   <footer className="footer mt-auto py-3">
     <Container>
       <Col className="text-center">
+    <Container className ="">
+      <Col className="footer-content">
         Add Info
         {' '}
         <br />
